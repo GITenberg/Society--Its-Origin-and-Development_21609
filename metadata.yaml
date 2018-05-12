@@ -1,0 +1,28 @@
+_repo: Society--Its-Origin-and-Development_21609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rowe, Henry K. (Henry Kalloch)
+    alias: Rowe, Henry Kalloch
+    birthdate: 1869
+    deathdate: 1941
+    gutenberg_agent_id: '24806'
+    url: http://www.gutenberg.org/2009/agents/24806
+description: ''
+gutenberg_issued: '2007-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21609'
+  lccn: '16015715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sociology'
+- !lcc 'HM'
+title: 'Society: Its Origin and Development'
+url: http://www.gutenberg.org/ebooks/21609
